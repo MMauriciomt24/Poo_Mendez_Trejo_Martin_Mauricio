@@ -5,7 +5,6 @@ Los pagos de los libros atrasados de la biblioteca
 
 
 //Librerias
-import java.util.Scanner;
 import javax.swing.JOptionPane;
 
 
