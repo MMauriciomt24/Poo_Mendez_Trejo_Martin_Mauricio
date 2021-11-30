@@ -1,3 +1,6 @@
 {
-    "gitlens.defaultDateShortFormat": null
+    "gitlens.defaultDateShortFormat": null,
+    "java.project.sourcePaths": [
+        "10_PagosBiblioteca"
+    ]
 }
